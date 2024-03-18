@@ -1,0 +1,10 @@
+fig
+grape
+kiwi
+lemon
+pineapple
+mango
+rasberry
+blueberry
+orange
+watermelon
